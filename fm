@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd Fayomy
+screen -S Fayomy -X kill
+screen -S Fayomy ./FmGm
