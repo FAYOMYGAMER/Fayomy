@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```git clone https://github.com/FAYOMY-GAMER/FAYOMY && cd Fayomy && chmod +x install.sh && ./install.sh```
+```git clone https://github.com/FAYOMYGAMER/FAYOMY && cd Fayomy && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
